@@ -1,0 +1,7 @@
+{
+  "name": "Pankti (पंक्ति)",
+  "description": "India's unified smart queueing system. Supports English, Hindi, Kannada & more. AI-powered estimates for Hospitals, Banks, RTOs, Temples, and Aadhaar centers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
